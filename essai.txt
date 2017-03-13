@@ -1,6 +1,0 @@
- 
-
-
- - il faut importer tout les .h
-
- - il faut aussi importer le path_queue.cxx path_support.cxx et path_open.cxx
